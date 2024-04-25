@@ -3,6 +3,12 @@
 
 #include <iostream>
 
+
+void foo() 
+{
+    std::cout << "My main commit"; 
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
